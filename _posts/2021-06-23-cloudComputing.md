@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Welcome to my blog @ MIT"
+date: 2021-06-23
 ---
 
 My first blog story goes here.
